@@ -16,11 +16,11 @@
 # Использование
 - Базовое использование
   ```bash
-  python Detecting_paper.py изображение.jpg
+  python Detecting_paper.py --input изображение.jpg
   ```
 - Использование с указанием выходного файла
   ```bash
-  python Detecting_paper.py изображение.jpg -o результат.jpg
+  python Detecting_paper.py --input изображение.jpg -o результат.jpg
   ```
 
 # Установка зависимостей
